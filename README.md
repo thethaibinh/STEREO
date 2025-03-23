@@ -6,7 +6,7 @@ This repository contains the implementation code for the algorithm described in 
 [![STEREO](https://img.youtube.com/vi/-s8uMdpkfSI/0.jpg)](https://www.youtube.com/watch?v=-s8uMdpkfSI)
 
 ## Update
-Detailed instructions are coming soon!
+Detailed wiki and instructions are coming soon!
 
 ### Prerequisite
 
