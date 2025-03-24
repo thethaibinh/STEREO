@@ -3,7 +3,7 @@
 This repository contains the implementation code for the algorithm described in the submitted manuscript "Spatio-Temporal Trajectory Planning on Raw Sensor Observations for Quadrotor in Dynamic Environments". Please don't hesitate to contact the corresponding author [Thai Binh Nguyen](mailto:thethaibinh@gmail.com) if you have any requests.
 
 ## Demonstration video
-[![STEREO](https://img.youtube.com/vi/-s8uMdpkfSI/0.jpg)](https://www.youtube.com/watch?v=-s8uMdpkfSI)
+[![STEREO](https://img.youtube.com/vi/FEjxDMvPzK0/0.jpg)](https://www.youtube.com/watch?v=FEjxDMvPzK0)
 
 ## Update
 Detailed wiki and instructions are coming soon!
